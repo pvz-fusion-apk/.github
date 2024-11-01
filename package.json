@@ -1,7 +1,7 @@
 {
-  "name": "Nintendo-Music",
-  "version": "1.0.0",
-  "description": "Nintendo Music APK For Android Download.",
+  "name": "PVZ-Fusion",
+  "version": "2.1.4",
+  "description": "PVZ Fusion MOD APK Unlimited Money DOWNLOAD.",
   "main": "index.js",
   "scripts": {
     "start": "open index.html"
